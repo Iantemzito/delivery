@@ -1,0 +1,66 @@
+/*home*/
+        .omoro{
+            color: wheat;
+        }
+        .sibuor{
+            background-color: green;
+            text-decoration: underline;
+        }
+        .otoyo{
+            background-color: blue;
+            margin: initial;
+            border-radius: 20px;
+        }
+
+        .simba{
+            background-color: darkgoldenrod;
+            margin: inherit;
+            border-radius: 20px;
+        }
+
+        .raila{
+            margin-left: 150px;
+
+        }
+        .container{
+             background-color: darkgoldenrod;
+            margin: inherit;
+            background-image: url("https://cdn.pixabay.com/photo/2023/10/11/04/08/water-lilies-8307632_1280.jpg");
+            border-radius: 20px;
+            float: left;
+            display: flex;
+        }
+        h1{
+            text-align: center;
+        }
+.mike{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    justify-content: space-around;
+}
+
+        nav{
+            background-color:green;
+            font-size:50px;
+            font-family: Dialog;
+            padding:20px;
+            margin: 20px;
+            border-radius: 120px;
+            color: coral;
+        }
+
+
+
+img{
+    height: 300px;
+    width: 300px;
+}
+body{
+    background-image: url("/images/car.jpg");
+    background-color: orange;
+
+
+}
+
+
